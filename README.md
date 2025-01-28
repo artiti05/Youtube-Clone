@@ -26,3 +26,5 @@ This project is a front-end imitation of YouTube, built using HTML and CSS. It r
   - A fixed sidebar for navigation.
   - A responsive layout for the video grid.
   - Tooltips and hover effects for interactivity.
+## Full Page View
+![Full Page](IMAGE-Imitation.png)
